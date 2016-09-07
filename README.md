@@ -113,6 +113,8 @@ Note: JS sourcemap files are a way to map a combined/minified file back to their
 ### Notes
 
 - When adding a component to the main app component it must be added as a directive.
+- Visual Studio Code is a great editor to use for native typescript support.
+- Good plugins available to other IDE and editors like Atom, Sublime, IntelliJ IDE and others.
 
 ### Resources
 
